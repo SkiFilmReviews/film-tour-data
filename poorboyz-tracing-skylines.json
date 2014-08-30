@@ -1,0 +1,74 @@
+[
+    {
+        "movie": "Tracing Skylines",
+        "production": "PoorBoyz Productions",
+        "events": {
+            "0": {
+                "date": "September 06, 2013",
+                "venue": "The Neptune Theatre",
+                "location": "Seattle, Washington",
+                "detail_link": "http://purchase.tickets.com/buy/TicketPurchase?pid=7562598"
+            },
+            "1": {
+                "date": "September 14, 2013",
+                "venue": "Cinéma L'Impérial",
+                "location": "Montreal, Quebec",
+                "detail_link": "https://store.if3.ca/shop/screening-6/"
+            },
+            "2": {
+                "date": "September 18, 2013",
+                "venue": "The Emerson Theater",
+                "location": "Bozeman, Montana",
+                "detail_link": "https://www.ticketriver.com/event/8315"
+            },
+            "3": {
+                "date": "September 20, 2013",
+                "venue": "The Wilma Theater",
+                "location": "Missoula, Montana",
+                "detail_link": "https://ticketriver.com/event/8419"
+            },
+            "4": {
+                "date": "September 20, 2013",
+                "venue": "Birmingham 8",
+                "location": "Birmingham, Michigan",
+                "detail_link": "http://donthomassporthaus.com/events/"
+            },
+            "5": {
+                "date": "September 21, 2013",
+                "venue": "Bing Crosby Theater",
+                "location": "Spokane, Washington",
+                "detail_link": "https://www.ticketriver.com/event/8318"
+            },
+            "6": {
+                "date": "September 24, 2013",
+                "venue": "The Tower Theater",
+                "location": "Salt Lake City, Utah",
+                "detail_link": "https://ticketriver.com/event/8427"
+            },
+            "7": {
+                "date": "October 03, 2013",
+                "venue": "Boulder Theater",
+                "location": "Boulder, Colorado",
+                "detail_link": "http://www.bouldertheater.com/event/poor-boyz-productions-triple-threat-tour"
+            },
+            "8": {
+                "date": "October 05, 2013",
+                "venue": "The Egyptian Theatre",
+                "location": "Boise, Idaho",
+                "detail_link": "https://www.ticketriver.com/event/8320"
+            },
+            "9": {
+                "date": "October 11, 2013",
+                "venue": "iF3 Whistler",
+                "location": "Whistler, British Columbia",
+                "detail_link": "http://whistler.if3.ca/"
+            },
+            "10": {
+                "date": "November 02, 2013",
+                "venue": "Warren Station @ Keystone",
+                "location": "Keystone, Colorado",
+                "detail_link": ""
+            }
+        }
+    }
+]
